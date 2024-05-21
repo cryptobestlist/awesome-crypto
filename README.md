@@ -1,6 +1,6 @@
 # Awesome Crypto List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for cryptocurrency enthusiasts, developers, and researchers. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
+A curated list of awesome resources for cryptocurrency enthusiasts, developers, and researchers. Inspired by [awesome productivity tools](https://github.com/productivitydirectory/awesome-productivity-tools).
 
 ## Table of Contents
 
