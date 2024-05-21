@@ -1,5 +1,13 @@
 # Awesome Crypto List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<blockquote>
+<p dir="auto">A curated list of crypto Top Tools</p>
+
+<p dir="auto">Feel free to contribute and also submit your crypto on <a href="https://cryptobestlist.com/?utm_source=awesome-crypto
+
+" rel="nofollow">cryptobestlist.com</a> for free</p>
+</blockquote>
+
 A curated list of awesome resources for cryptocurrency enthusiasts, developers, and researchers. Inspired by [awesome productivity tools](https://github.com/productivitydirectory/awesome-productivity-tools).
 
 ## Table of Contents
