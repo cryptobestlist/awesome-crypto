@@ -1,14 +1,12 @@
 # Awesome Crypto List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<blockquote>
-<p dir="auto">A curated list of crypto Top Tools</p>
-
-<p dir="auto">Feel free to contribute and also submit your crypto on <a href="https://cryptobestlist.com/?utm_source=awesome-crypto
-
-" rel="nofollow">cryptobestlist.com</a> for free</p>
-</blockquote>
-
 A curated list of awesome resources for cryptocurrency enthusiasts, developers, and researchers. Inspired by [awesome productivity tools](https://github.com/productivitydirectory/awesome-productivity-tools).
+
+Welcome to Awesome CRYPTO ! Dive into my curated list of crypto list, featuring top generative crypto. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing crypto list of products and stay on the edge of innovation.
+
+visit crypto best list for more - <a href='https://cryptobestlist.com' >awesome crypto</a> 
+
+
 
 ## Table of Contents
 
@@ -50,17 +48,20 @@ A curated list of awesome resources for cryptocurrency enthusiasts, developers, 
 
 - [Bitcoin.org](https://bitcoin.org) - Official website of Bitcoin.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original Bitcoin whitepaper by Satoshi Nakamoto.
+- [Bitcoin in best list](https://cryptobestlist.com/bitcoin) - The Bitcoin in crypto best list.
 
 ### Ethereum
 
 - [Ethereum.org](https://ethereum.org) - Official website of Ethereum.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - The Ethereum whitepaper by Vitalik Buterin.
+- [Ethereum in best list](https://cryptobestlist.com/Ethereum) - The Bitcoin in crypto best list.
 
 ### Others
 
 - [Litecoin](https://litecoin.org) - Official website of Litecoin.
 - [Ripple](https://ripple.com) - Official website of Ripple (XRP).
 - [Cardano](https://cardano.org) - Official website of Cardano.
+- [More](https://cryptobestlist.com/coin) - the more Cryptocurrencies .
 
 ## Wallets
 
@@ -113,3 +114,5 @@ A curated list of awesome resources for cryptocurrency enthusiasts, developers, 
 - [Coursera: Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) - Course offered by Princeton University.
 - [Udemy: The Complete Cryptocurrency Course](https://www.udemy.com/course/the-complete-cryptocurrency-course) - Covers crypto from beginner to advanced.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school to teach you all things about building games on Ethereum.
+
+ 
